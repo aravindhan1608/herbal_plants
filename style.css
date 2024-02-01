@@ -79,8 +79,9 @@ section{
 /*****About*****/
 
 #About{
-    background: #000000;
+    background-image: url(no10.avif);
     color:  #f7e228d3;
+    background-position: center;
 }
 #About h1{
     font-weight: 800;
