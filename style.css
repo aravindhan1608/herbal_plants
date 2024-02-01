@@ -79,15 +79,17 @@ section{
 /*****About*****/
 
 #About{
-    background-image: url(no10.avif);
+    background-image: url(no4.jpg);
     color:  #f7e228d3;
+    background-size: cover;
     background-position: center;
+
 }
 #About h1{
     font-weight: 800;
     font-size: 55px;
-    color: #fff;
-}
+    color: #000000;
+}   
 
 /***Product****/
 
